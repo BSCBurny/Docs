@@ -1,0 +1,123 @@
+BURNY: The community owned deflationary, reward token on the Binance Smart chain.
+
+Burny is a deflationary, reward token built on the Binance Smart Chain network. It introduces a unique burning mechanism 
+where 99% of the token supply has already been burned, and with each transaction, 4% of the transfer is permanently removed 
+from circulation. This deflationary design aims to create scarcity and potentially increase the value of Burny over time. 
+Also, Burny rewards holders with an exclusive 1% reward for holders of longer than 2 weeks.
+
+
+1. Introduction
+
+1.1 What sparked the idea for Burny?
+Burny was born out of frustration with flaws in the MEME community. Issues like massive wallets, exploits, and tokenomics 
+favouring developers led me to create a token that prioritizes fairness and transparency. Through meticulous planning and 
+development, Burny emerged as a symbol of reliability and trustworthiness. With robust tokenomics, stringent security 
+measures, and equitable distribution, Burny offers a more fair and transparent crypto experience. It stands as a testament 
+to the power of determination and a desire for positive change in the crypto world.
+
+1.2 Objectives
+BURNY will strive to ensure the following objectives:
+
+-	Awareness: With the determination to compete against the MEME elites, BURNY strives to establish itself as a prominent 
+and widely recognized name in the crypto space. By leveraging its unique features, community engagement, and innovative 
+strategies, BURNY aims to surpass the competition and become a household name. Through relentless marketing efforts, 
+strategic partnerships, and a commitment to delivering exceptional value to its holders, BURNY aspires to solidify its 
+position as a leading player in the industry, capturing the attention and trust of crypto enthusiasts worldwide.
+
+-	Trust: Trust is the cornerstone of BURNY. With a community-driven approach, transparent tokenomics, and a commitment 
+to integrity, we build trust among our investors. Join BURNY and experience a project you can trust to prioritize fairness, 
+security, and the long-term interests of our community.
+
+-	Transparency: At BURNY, transparency is our guiding principle. We believe in providing full visibility into our 
+tokenomics, project updates, and decision-making processes. With clear communication and an open approach, we foster trust 
+and empower our community to make informed decisions. Join us and experience the power of transparency in the crypto world.
+
+-	Opportunity: Unlock the potential of a compelling investment opportunity with BURNY. Through its deflationary design, 
+exclusive rewards, and a vibrant community, BURNY offers a gateway to participate in the exciting world of crypto with the 
+potential for long-term growth. Don't miss out on this chance to be part of a ground-breaking project that combines 
+innovation and opportunity
+
+
+2. Tokenomics
+
+2.1	Token Distribution:
+
+BURNY was launched with a total token supply capped at 10,000,000 tokens. The initial distribution followed the following 
+structure:
+
+-	Pinksale Presale: In our presale on Pinksale, 98,600 Burny tokens were contributed towards our listing, while 100% of 
+the remaining tokens were burned. Notably, our team participated alongside the community, highlighting our commitment to 
+fairness and equal opportunity during the project's launch. We want to emphasize that there were no pre-distributions of 
+tokens among the team, underscoring our dedication to transparency and ensuring a balanced distribution of resources. During 
+our Pinksale launch, we burned over 99% of the token supply, ensuring that 100% of the token allocation went into the 
+Pinksale Pre-launch phase. Pinksale launched 07/07/23 22:00GMT and concluded 09/07/23 22:00GMT
+
+-	Liquidity: To ensure stability, security, and integrity, Burny has securely locked 100% of its tokens for a period of 
+100 years. This locking mechanism provides investors with the confidence that the token's liquidity will remain intact, 
+reducing the risk of sudden price fluctuations. Additionally, Burny will be available for trading on leading platforms, 
+starting exclusively on Pancakeswap. This strategic approach allows for wider accessibility and liquidity, enhancing the 
+trading experience for investors.
+
+-	Marketing/Development: In the spirit of fostering trust and honesty, Burny's community has made a significant decision 
+regarding marketing and development. Unlike many projects where investors often fall victim to the selfish actions of 
+developers or teams, capitalizing on false promises, particularly in high-risk meme tokens, Burny takes a different approach. We prioritize the interests of our investors by eliminating the presence of a Marketing/Developer wallet. We firmly believe that this transparent and selfless approach sets us apart and demonstrates our commitment to the crypto community. As time goes on, we are confident that our honest and trustworthy approach will resonate within the crypto community, gaining recognition and appreciation.
+
+2.2	Burn Mechanism:
+BURNY incorporates an exceptional burn mechanism, ensuring that 4% of each transaction is burned, reducing the token supply. 
+This process is symbolic to our brand of fire and contributes to the scarcity and value appreciation of BURNY.
+By implementing this innovative mechanism and approach, BURNY aims to create a sustainable ecosystem that rewards long-term 
+holders and align the interests of its passionate community. 
+Join BURNY today and become part of a scorching community where the flames of innovation ignite limitless possibilities. 
+Together, let's fuel the fire of success and prosperity!
+
+2.3	Exclusive Rewards:
+"BURNY offers exclusive rewards through a 1% reflections tax, redistributing proportionally to eligible addresses. 
+Eligibility is determined based on factors like the time of investment, participation in platforms like Pinksale, or holding 
+for a designated period. 
+This enticing reward structure is designed to incentivize investors to hold their BURNY tokens for an extended duration, 
+fostering a strong commitment and potential long-term benefits for our dedicated community."
+
+
+3. Community Governance:
+BURNY recognizes that the true strength of a project lies within the collective wisdom and participation of its community. 
+Through a decentralized governance model, BURNY empowers holders to actively participate in decision-making processes and we 
+will do this using a 2way communication method often contested using polls and/or voting system.
+By voting on various project initiatives, holders can influence the direction of BURNY, ensuring a vibrant and inclusive 
+ecosystem that reflects the desires and preferences of its passionate community.
+
+
+4. On-going Marketing Efforts:
+BURNY understands that continuous marketing efforts are pivotal for raising awareness, expanding the community, and 
+sustaining growth. By utilizing the community as the main source of marketing, BURNY establishes a dedicated, natural means 
+to engage with new members and investors, whilst utilising on-going campaigns across diverse platforms.
+Through strategic partnerships, social media engagement, and innovative marketing strategies, BURNY aims to amplify its 
+presence, attract new holders, and solidify its position as a leading MEME in the crypto space.
+
+
+5. Trustworthy and Engaged Team
+
+5.1 Team Background:
+At BURNY, we recognize the importance of a trustworthy and engaged team. Our members bring unique expertise and share a 
+common passion for driving the project's success and longevity.
+
+5.2 Transparent Communication:
+Transparent communication is at the core of Burny's principles. We believe in providing clear and open communication 
+channels, keeping our community informed about project updates, developments, and decisions. With transparent communication, 
+we foster trust, empower our community, and ensure that everyone has access to accurate and timely information. At Burny, 
+we value transparency as a key pillar in building strong, long-lasting relationships with our community.
+
+5.3 Community Engagement
+Community engagement is at the heart of BURNY. We believe in fostering an active and vibrant community where every voice 
+matters. Through interactive discussions, events, and initiatives, we encourage our community members to actively 
+participate, share their ideas, and contribute to the growth and success of BURNY. Join our engaging community and be part 
+of the collective journey towards a brighter future in the crypto space.
+
+
+6. Conclusion
+In conclusion, Burny's outlines a unique cryptocurrency project that combines deflationary mechanisms, community-driven 
+governance, and innovative strategies. With a strong emphasis on fairness, transparency, and inclusivity, Burny aims to 
+revolutionize the MEME culture and provide an exceptional experience for its holders. 
+Burny seeks to ignite a vibrant community and set new standards for value appreciation and community engagement. 
+Join us on this exciting journey and be part of the Burny revolution.
+
+Harness the power or feel the Burn.
