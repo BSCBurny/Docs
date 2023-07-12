@@ -60,7 +60,11 @@ trading experience for investors.
 
 -	Marketing/Development: In the spirit of fostering trust and honesty, Burny's community has made a significant decision 
 regarding marketing and development. Unlike many projects where investors often fall victim to the selfish actions of 
-developers or teams, capitalizing on false promises, particularly in high-risk meme tokens, Burny takes a different approach. We prioritize the interests of our investors by eliminating the presence of a Marketing/Developer wallet. We firmly believe that this transparent and selfless approach sets us apart and demonstrates our commitment to the crypto community. As time goes on, we are confident that our honest and trustworthy approach will resonate within the crypto community, gaining recognition and appreciation.
+developers or teams, capitalizing on false promises, particularly in high-risk meme tokens, Burny takes a different approach. 
+We prioritize the interests of our investors by eliminating the presence of a Marketing/Developer wallet. We firmly believe 
+that this transparent and selfless approach sets us apart and demonstrates our commitment to the crypto community. As time 
+goes on, we are confident that our honest and trustworthy approach will resonate within the crypto community, gaining 
+recognition and appreciation.
 
 2.2	Burn Mechanism:
 BURNY incorporates an exceptional burn mechanism, ensuring that 4% of each transaction is burned, reducing the token supply. 
