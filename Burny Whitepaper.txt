@@ -41,7 +41,6 @@ innovation and opportunity
 2. Tokenomics
 
 2.1	Token Distribution:
-
 BURNY was launched with a total token supply capped at 10,000,000 tokens. The initial distribution followed the following 
 structure:
 
@@ -83,6 +82,7 @@ fostering a strong commitment and potential long-term benefits for our dedicated
 
 
 3. Community Governance:
+
 BURNY recognizes that the true strength of a project lies within the collective wisdom and participation of its community. 
 Through a decentralized governance model, BURNY empowers holders to actively participate in decision-making processes and we 
 will do this using a 2way communication method often contested using polls and/or voting system.
@@ -91,6 +91,7 @@ ecosystem that reflects the desires and preferences of its passionate community.
 
 
 4. On-going Marketing Efforts:
+
 BURNY understands that continuous marketing efforts are pivotal for raising awareness, expanding the community, and 
 sustaining growth. By utilizing the community as the main source of marketing, BURNY establishes a dedicated, natural means 
 to engage with new members and investors, whilst utilising on-going campaigns across diverse platforms.
@@ -118,6 +119,7 @@ of the collective journey towards a brighter future in the crypto space.
 
 
 6. Conclusion
+
 In conclusion, Burny's outlines a unique cryptocurrency project that combines deflationary mechanisms, community-driven 
 governance, and innovative strategies. With a strong emphasis on fairness, transparency, and inclusivity, Burny aims to 
 revolutionize the MEME culture and provide an exceptional experience for its holders. 
