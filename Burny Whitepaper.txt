@@ -3,7 +3,7 @@ BURNY: The community owned deflationary, reward token on the Binance Smart chain
 Burny is a deflationary, reward token built on the Binance Smart Chain network. It introduces a unique burning mechanism 
 where 99% of the token supply has already been burned, and with each transaction, 4% of the transfer is permanently removed 
 from circulation. This deflationary design aims to create scarcity and potentially increase the value of Burny over time. 
-Also, Burny rewards holders with an exclusive 1% reward for holders of longer than 2 weeks.
+Also, 1% of transactions goes towards marketing.
 
 
 1. Introduction
@@ -13,7 +13,7 @@ Burny was born out of frustration with flaws in the MEME community. Issues like 
 favouring developers led me to create a token that prioritizes fairness and transparency. Through meticulous planning and 
 development, Burny emerged as a symbol of reliability and trustworthiness. With robust tokenomics, stringent security 
 measures, and equitable distribution, Burny offers a more fair and transparent crypto experience. It stands as a testament 
-to the power of determination and a desire for positive change in the crypto world.
+to the power of determination and a desire for positive change in the crypto MEME world.
 
 1.2 Objectives
 BURNY will strive to ensure the following objectives:
@@ -57,13 +57,10 @@ reducing the risk of sudden price fluctuations. Additionally, Burny will be avai
 starting exclusively on Pancakeswap. This strategic approach allows for wider accessibility and liquidity, enhancing the 
 trading experience for investors.
 
--	Marketing/Development: In the spirit of fostering trust and honesty, Burny's community has made a significant decision 
-regarding marketing and development. Unlike many projects where investors often fall victim to the selfish actions of 
-developers or teams, capitalizing on false promises, particularly in high-risk meme tokens, Burny takes a different approach. 
-We prioritize the interests of our investors by eliminating the presence of a Marketing/Developer wallet. We firmly believe 
-that this transparent and selfless approach sets us apart and demonstrates our commitment to the crypto community. As time 
-goes on, we are confident that our honest and trustworthy approach will resonate within the crypto community, gaining 
-recognition and appreciation.
+-	Marketing/Development: Burny has implemented a 1% marketing wallet as part of its commitment to transparency and trust 
+in the crypto community. This ensures that marketing efforts are properly funded and conducted in a responsible manner. 
+By dedicating a specific percentage for marketing purposes, Burny aims to achieve wider recognition and appreciation 
+while maintaining its honest and trustworthy approach (marketing wallet - 0x3d1a86798d34dd8bce94641542da4f3f33a81c32).
 
 2.2	Burn Mechanism:
 BURNY incorporates an exceptional burn mechanism, ensuring that 4% of each transaction is burned, reducing the token supply. 
@@ -72,13 +69,6 @@ By implementing this innovative mechanism and approach, BURNY aims to create a s
 holders and align the interests of its passionate community. 
 Join BURNY today and become part of a scorching community where the flames of innovation ignite limitless possibilities. 
 Together, let's fuel the fire of success and prosperity!
-
-2.3	Exclusive Rewards:
-"BURNY offers exclusive rewards through a 1% reflections tax, redistributing proportionally to eligible addresses. 
-Eligibility is determined based on factors like the time of investment, participation in platforms like Pinksale, or holding 
-for a designated period. 
-This enticing reward structure is designed to incentivize investors to hold their BURNY tokens for an extended duration, 
-fostering a strong commitment and potential long-term benefits for our dedicated community."
 
 
 3. Community Governance:
@@ -92,11 +82,15 @@ ecosystem that reflects the desires and preferences of its passionate community.
 
 4. On-going Marketing Efforts:
 
-BURNY understands that continuous marketing efforts are pivotal for raising awareness, expanding the community, and 
-sustaining growth. By utilizing the community as the main source of marketing, BURNY establishes a dedicated, natural means 
-to engage with new members and investors, whilst utilising on-going campaigns across diverse platforms.
-Through strategic partnerships, social media engagement, and innovative marketing strategies, BURNY aims to amplify its 
-presence, attract new holders, and solidify its position as a leading MEME in the crypto space.
+BURNY recognizes the importance of continuous marketing efforts in raising awareness, expanding the community, and sustaining 
+growth. The project leverages a dedicated community and utilizes ongoing campaigns across diverse platforms. Through strategic 
+partnerships, social media engagement, and innovative marketing strategies, BURNY aims to amplify its presence and attract new 
+holders.
+
+To support these marketing initiatives, BURNY utilizes the 1% marketing tax, ensuring dedicated funding for effective marketing 
+activities. This transparent and self-sustaining approach allows BURNY to conduct responsible marketing while maintaining its 
+commitment to the community. By utilizing the allocated marketing tax, BURNY strives to solidify its position as a leading MEME 
+token in the crypto space.
 
 
 5. Trustworthy and Engaged Team
